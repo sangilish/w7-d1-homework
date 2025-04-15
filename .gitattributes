@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# New files created for Redux actions, reducers, store, and components
+src/redux/actions.js
+src/redux/reducers.js
+src/redux/store.js
+src/DarkThemeProvider.js
+src/DarkThemeToggle.js
+src/App.js
+src/App.css
